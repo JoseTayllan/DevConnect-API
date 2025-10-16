@@ -80,6 +80,6 @@ Use dois scripts Node.js (client1.js e client2.js) conectando com Socket.IO e en
 - Clean Code e segurança aplicada
 
 ## 🧠 Autor
-**Neymar Jr.** — Desenvolvedor Backend  
-📧 Contato: seuemail@devconnect.com  
+**José Tayllan Pinto Almeida** — Desenvolvedor Backend  
+📧 Contato: josetayllan055@gmail.com  
 📚 #NodeJS #TypeScript #APIs #WebSockets #MongoDB #CleanCode
