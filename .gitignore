@@ -1,0 +1,72 @@
+# ==============================
+# 📦 Node.js / TypeScript API
+# DevConnect API - .gitignore
+# ==============================
+
+# Dependências
+node_modules/
+
+# Build e compilação
+dist/
+build/
+out/
+
+# Cache de TypeScript
+*.tsbuildinfo
+
+# Arquivos temporários
+.tmp/
+temp/
+.DS_Store
+Thumbs.db
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+logs/
+*.log
+
+# Variáveis de ambiente
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# Configurações do sistema / IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Arquivos de testes e mocks
+coverage/
+jest.config.js.map
+*.test.ts
+*.spec.ts
+
+# Backups e arquivos do editor
+*.bak
+*.old
+*.orig
+
+# Banco local (se usar Mongo embutido)
+data/
+mongodb-data/
+
+# Arquivos de execução e cache do ts-node-dev
+*.pid
+*.pid.lock
+*.ts-node-dev.json
+*.ts-node-dev.*
+*.ts-node.*
+
+# Arquivos compactados e exportações
+*.zip
+*.tar
+*.gz
+
+# Exportações do projeto
+exports/
